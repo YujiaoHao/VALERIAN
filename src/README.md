@@ -13,6 +13,7 @@ src/self_supervision_feature_extractor is a trained model
 Due to the long training time, try not to train all models at once. Here I trained 28 models for one run and it tooks some time.
 
 After the models are trained, there're two ways to use VALERIAN.
+
 5. Use VALERIAN to clean the data labels from source domain.
 Run src/run_clean_source_label_uschad.py
 
